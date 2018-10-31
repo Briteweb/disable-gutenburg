@@ -3,7 +3,7 @@
   "description": "Disables the Gutenburg editor for built-in & custom post types.",
   "type": "library",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Jeff",
