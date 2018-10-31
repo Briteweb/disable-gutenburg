@@ -2,6 +2,7 @@
   "name": "briteweb/disable-gutenburg",
   "description": "Disables the Gutenburg editor for built-in & custom post types.",
   "type": "library",
+  "license": "MIT",
   "version": "0.1.0",
   "authors": [
     {
