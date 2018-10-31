@@ -1,0 +1,16 @@
+{
+  "name": "briteweb/disable-gutenburg",
+  "description": "Disables the Gutenburg editor for built-in & custom post types.",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Jeff",
+      "email": "jeff.sagal@briteweb.com"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "disable-gutenburg.php"
+    ]
+  }
+}
